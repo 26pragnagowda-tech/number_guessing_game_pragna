@@ -36,6 +36,4 @@ Output
 
 The program displays hints for each guess and congratulates the user when the correct number is found, along with the total number of attempts.
 
-Author
 
-Pragna D
